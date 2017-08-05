@@ -9,11 +9,13 @@
     "start": "node dist/start",
     "lint": "tslint \"src/**/*.ts\""
   },
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
-     
+    "@angular/compiler": "^4.3.3",
+    "@angular/compiler-cli": "^4.3.3",
+    "rollup": "^0.45.2",
+    "typescript": "^2.4.2",
+    "uglify-js": "^3.0.27"
   },
   "repository": {
     "type": "git",
