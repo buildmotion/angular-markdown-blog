@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="BuildMotion.MarkdownMotion.WebHost.WebApiApplication" Language="C#" %>

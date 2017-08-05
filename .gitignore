@@ -1,2 +1,7 @@
 /source/BuildMotion.MardownMotion.solution/.vs/BuildMotion.MarkdownMotion.solution/v15/.suo
 /source/BuildMotion.MardownMotion.solution/.vs/config/applicationhost.config
+/source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.Service/bin/*
+/source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.Service/obj/*
+/source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebAPI/bin/*
+/source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebAPI/obj/*
+/source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebHost/bin/*
