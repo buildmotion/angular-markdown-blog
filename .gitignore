@@ -5,3 +5,6 @@
 /source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebAPI/bin/*
 /source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebAPI/obj/*
 /source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebHost/bin/*
+/source/BuildMotion.MardownMotion.solution/BuildMotion.MarkdownMotion.WebHost/obj/*
+/source/BuildMotion.MardownMotion.solution/packages/*
+/website/*
